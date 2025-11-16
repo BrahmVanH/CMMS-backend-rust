@@ -5,7 +5,7 @@
   
   ## Description 
   
-  The is the lambda function for the CMMS functionality of the Ore Dock Brewing Company's internal distributed business software.
+  The is an http server written in Rust that uses async-graphql, dynamoDb, and axum to provide a backend for a client-side maintenance management system UI.
   
   ## Table of Contents
 
