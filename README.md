@@ -1,4 +1,4 @@
-# Ore Dock Brewing Co. CMMS Lambda
+# A Computerized Maintenance Management System backend written in Rust
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
